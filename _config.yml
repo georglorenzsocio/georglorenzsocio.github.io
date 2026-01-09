@@ -1,0 +1,9 @@
+title: Georg Lorenz
+description: Assistant Professor | Utrecht University
+theme: minima
+
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
+  - activities.md
