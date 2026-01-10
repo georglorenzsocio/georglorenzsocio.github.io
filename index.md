@@ -14,7 +14,7 @@ Below is a list of my publications and work in progress. You can find more detai
 Feel free to contact me at: g.lorenz [at] uu [dot] nl
 
 
-PEER–REVIEWED JOURNAL PUBLICATIONS
+title: PEER–REVIEWED JOURNAL PUBLICATIONS
 1) Künstler-Sment, Julia, Aleksander Kocaj, Georg Lorenz and Malte Jansen. 2025. The Role of All-Day Schooling in Friendship Segregation between Students with Different Language Backgrounds. Kölner Zeitschrift für Soziologie and Sozialpsychologie. 1-33. doi: 10.1007/s11577-025-01040-x
 2) Lorenz, Georg and Camilla Rjosk. 2025. Fragmentation or Integration? Ethnic Diversity and the Structural Cohesion of Social Networks in Schools. European Sociological Review: 1-15. doi: 10.1093/esr/jcaf051
 3) Hou, Chenru, Georg Lorenz, and Camilla Rjosk. 2025. Is Social Heterogeneity in Classrooms Associated with Reduced Achievement Inequality? The Role of Help-Seeking in Peer Networks. (R&R at European Societies).
@@ -28,7 +28,6 @@ PEER–REVIEWED JOURNAL PUBLICATIONS
 11) Olczyk, Melanie, Sarah J. Kwon, Georg Lorenz, Valentina P. Casoni, Thorsten Schneider, Anna Volodina, Jane Waldfogel, and Elizabeth Washbrook. 2022. Teacher judgements, student social background, and student progress in primary school: a cross–country perspective. Zeitschrift für Erziehungswissenschaften 26:443–468. doi: 10.1007/s11618–022–01119–7
 12) Jansen, Malte, Zsófia Boda, and Georg Lorenz. 2022. Social comparison effects on academic self–concepts: Which peers matter most? Developmental Psychology 58(8):1541–56. doi: 10.1037/dev0001368
 13) Lorenz, Georg, Zerrin Salikutluk, Zsófia Boda, Malte Jansen, and Miles Hewstone. 2021. The Link between Social and Structural Integration: Co– and Interethnic Friendship Selection and Friend Influence within Adolescent Social Networks. Sociological Science 8(19):371–396. doi: 10.15195/v8.a19
- 
 14) Lenz, Sarah, Camilla Rjosk, Georg Lorenz, and Petra Stanat. 2021. Ethnische Segregation zwischen Schularten in mehrgliedrigen Schulsystemen and im „Zwei–Wege–Modell“. Analysen im Kontext von schulstrukturellen Reformmaßnahmen in Berlin, Bremen and Hamburg [Between–school ethnic segregation in systems with between–school ability tracking and in the „Zwei–Wege–Modell“. Analyses in the context of school structural reforms in Berlin, Bremen and Hamburg]. Kölner Zeitschrift für Soziologie and Sozialpsychologie 73:59–84. doi: 10.1007/s11577–021–00739–x
 15) Lorenz, Georg, Zsófia Boda, and Zerrin Salikutluk. 2021. Oppositional culture revisited. Friendship dynamics and the creation of social capital among Turkish minority adolescents in Germany. Journal of Ethnic and Migration Studies 47(17):3986–4005. doi: 10.1080/1369183X.2021.1898354
 16) Lorenz, Georg. 2021. Subtle discrimination: Do stereotypes among teachers trigger bias in their expectations and widen ethnic achievement gaps? Social Psychology of Education 24:537–71. 
@@ -39,17 +38,17 @@ doi: 10.1007/s11218–021–09615–0
 20) Lorenz, Georg, Sarah Gentrup, Cornelia Kristen, Petra Stanat and Irena Kogan. 2016. Stereotype bei Lehrkräften? Eine Untersuchung systematisch verzerrter Lehrererwartungen [Stereotypes among teachers? A study of systematically biased teacher expectations]. Kölner Zeitschrift für Soziologie and Sozialpsychologie 68(1): 89–111. doi: 10.1007/s11577–015–0352–3
 21) Fleischmann, Fenella, Cornelia Kristen, Anthony F. Heath, Yaël Brinbaum, Patrick Deboosere, Nadia Granato, Jan O. Jonsson, Elina Kilpi–Jakonen, Georg Lorenz, Amy C. Lutz, David Mos, Raya Mutarrak, Karen Phalet, Catherine Rothon, Frida Rudolphi and Herman G. van de Werfhorst. 2014. Gender Inequalities in the Education of the Second Generation in Western Countries. Sociology of Education 87(3): 143–70. doi: 10.1177/0038040714537836
 
-BOOKS & BOOK CHAPTERS
+title: BOOKS & BOOK CHAPTERS
 22) Lorenz, Georg. 2018. Selbsterfüllende Prophezeiungen in der Schule: Leistungserwartungen von Lehrkräften and Kompetenzen von Kindern mit Zuwanderungshintergrund. Wiesbaden: VS Verlag für Sozialwissenschaften. Doi: 10.1007/978–3–658–19881–7.
 23) Lorenz, Georg and Clemens Kroneberg. 2025 (forthcoming). How social networks shape educational inequality along ethnic lines: Segregation, social capital, and peer influence. In B. Bilecen & M. J. Lubbers, Handbook of International Migration and Social Networks, Cheltenham: Elgar.
 
-PUBLICATIONS WITHOUT PEER REVIEW
+title: PUBLICATIONS WITHOUT PEER REVIEW
 24) Lorenz, Georg and Zsófia Boda. 2023. Social integration of refugee adolescents is encouraged by diversity. Research Briefing in Nature Human Behaviour 7: 847–848. doi: 10.1038/s41562-023-01578-w
 25) Lorenz, Georg and Sarah Gentrup. 2017. „Lehrererwartungen and der Bildungserfolg von Schülerinnen and Schülern mit Migrationshintergrand.“ S. 24–37, in Vielfalt im Klassenzimmer. Wie Lehrkräfte gute Leistung fördern können, bearbeitet vom Berliner Institut für empirische Integrations– and Migrationsforschung (BIM) and Forschungsbereich beim Sachverständigenrat deutscher Stiftungen für Integration and Migration (SVR–Forschungsbereich). Berlin.
 26) Lorenz, Georg and Tim Müller. 2017. „Einstellungen von Lehrkräften zu Aspekten von Vielfalt: Deutschsein, Religionspolitik and Muslime.“ S. 10–23, in Vielfalt im Klassenzimmer. Wie Lehrkräfte gute Leistung fördern können, bearbeitet vom Berliner Institut für empirische Integrations– and Migrationsforschung (BIM) and Forschungsbereich beim Sachverständigenrat deutscher Stiftungen für Integration and Migration (SVR–Forschungsbereich). Berlin.
 27) Wenz, Sebastian, Melanie Olczyk, and Georg Lorenz. 2016. Measuring Teachers’ Stereotypes in the NEPS. NEPS Survey Paper No. 3. Bamberg: Leibniz–Institut für Bildungsverläufe, Nationales Bildungspanel. http://dx.doi.org/10.2139/ssrn.2999297
 
-WORKING PAPERS
+title: WORKING PAPERS
 28) Kroneberg, Clemens and Georg Lorenz [shared first–authorship]. 2025. “Structural sources of segregation: How classroom composition shapes interethnic friendships.” (Under Review at American Journal of Sociology). SocArXiv Papers. doi: 10.31235/osf.io/v4ne9
 29) Lorenz, Georg, Claudia Neuendorf, and Camilla Rjosk. 2025. Definition and Measurement of Multidimensional Heterogeneity. SocArXiv Papers. doi: 10.31235/osf.io/v4ne9 (Under Review at Sociological Methods & Research).
 30) Rjosk, Camilla und Georg Lorenz. 2025. „Classroom heterogeneity: A theoretical model.“ (Under Review at Educational Psychologist)
