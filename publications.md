@@ -52,7 +52,7 @@ Fleischmann, Fenella, Cornelia Kristen, Anthony F. Heath, Yaël Brinbaum, Patric
 
 ### Books and Book Chapters
 
-Lorenz, Georg. 2018. Selbsterfüllende Prophezeiungen in der Schule: Leistungserwartungen von Lehrkräften and Kompetenzen von Kindern mit Zuwanderungshintergrund. Wiesbaden: VS Verlag für Sozialwissenschaften. DOI: [10.1007/978–3–658–19881–7](https://doi.org/10.1007/978–3–658–19881–7)
+Lorenz, Georg. 2018. Selbsterfüllende Prophezeiungen in der Schule: Leistungserwartungen von Lehrkräften and Kompetenzen von Kindern mit Zuwanderungshintergrund. Wiesbaden: VS Verlag für Sozialwissenschaften. DOI: [10.1007/978-3-658-19881-7](https://doi.org/10.1007/978-3-658-19881-7)
 
 Lorenz, Georg & Clemens Kroneberg. 2026 (in print). How social networks shape educational inequality along ethnic lines: Segregation, social capital, and peer influence. In B. Bilecen & M. J. Lubbers, Handbook of International Migration and Social Networks, Cheltenham: Elgar.
 
