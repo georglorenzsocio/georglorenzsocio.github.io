@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-<img src="20210525_GLorenz_03.JPG" width="160" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+<img src="20210525_GLorenz_03.JPG" width="190" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
 I am Assistant Professor at the Department of Sociology at Utrecht University (the Netherlands).
 
