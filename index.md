@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+<img src="20210525_GLorenz_03.JPG" width="220" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 I am Assistant Professor at the Department of Sociology at Utrecht University (the Netherlands).
 
 I obtained my PhD in social sciences ('summa cum laude') in 2017 from the University of Bamberg, Germany. Afterwards, I held positions as project coordinator (Humboldt-University of Berlin), project leader (Leipzig University), and research group leader (University of Potsdam). 
