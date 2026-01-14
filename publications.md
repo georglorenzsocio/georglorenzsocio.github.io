@@ -49,7 +49,10 @@ Lorenz, Georg, Sarah Gentrup, Cornelia Kristen, Petra Stanat and Irena Kogan. 20
 Fleischmann, Fenella, Cornelia Kristen, Anthony F. Heath, Yaël Brinbaum, Patrick Deboosere, Nadia Granato, Jan O. Jonsson, Elina Kilpi–Jakonen, Georg Lorenz, Amy C. Lutz, David Mos, Raya Mutarrak, Karen Phalet, Catherine Rothon, Frida Rudolphi and Herman G. van de Werfhorst. 2014. Gender Inequalities in the Education of the Second Generation in Western Countries. Sociology of Education
 87(3):143–70. DOI: [10.1177/0038040714537836](https://doi.org/10.1177/0038040714537836)
 
+
 ### Books and Book Chapters
 
-...
+Lorenz, Georg. 2018. Selbsterfüllende Prophezeiungen in der Schule: Leistungserwartungen von Lehrkräften and Kompetenzen von Kindern mit Zuwanderungshintergrund. Wiesbaden: VS Verlag für Sozialwissenschaften. DOI: [10.1007/978–3–658–19881–7](https://doi.org/10.1007/978–3–658–19881–7)
+
+Lorenz, Georg & Clemens Kroneberg. 2026 (in print). How social networks shape educational inequality along ethnic lines: Segregation, social capital, and peer influence. In B. Bilecen & M. J. Lubbers, Handbook of International Migration and Social Networks, Cheltenham: Elgar.
 
