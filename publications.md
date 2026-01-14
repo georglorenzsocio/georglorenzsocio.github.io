@@ -48,8 +48,6 @@ Lorenz, Georg, Sarah Gentrup, Cornelia Kristen, Petra Stanat and Irena Kogan. 20
 
 Fleischmann, Fenella, Cornelia Kristen, Anthony F. Heath, Yaël Brinbaum, Patrick Deboosere, Nadia Granato, Jan O. Jonsson, Elina Kilpi–Jakonen, Georg Lorenz, Amy C. Lutz, David Mos, Raya Mutarrak, Karen Phalet, Catherine Rothon, Frida Rudolphi and Herman G. van de Werfhorst. 2014. Gender Inequalities in the Education of the Second Generation in Western Countries. Sociology of Education
 87(3):143–70. DOI: [10.1177/0038040714537836](https://doi.org/10.1177/0038040714537836)
-<img width="454" height="709" alt="image" src="https://github.com/user-attachments/assets/cf1db7eb-1973-46d7-b89b-84435c73554c" />
-
 
 ### Books and Book Chapters
 
