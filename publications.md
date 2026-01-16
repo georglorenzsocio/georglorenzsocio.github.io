@@ -5,6 +5,8 @@ title: Publications
 
 ## Peer-Reviewed Journal Articles
 
+Hou, Chenru, Georg Lorenz, and Camilla Rjosk. 2026. Is Social Heterogeneity in Classrooms Associated with Reduced Achievement Inequality? The Role of Help-Seeking in Peer Networks. *European Societies* (in print).
+
 Künstler-Sment, Julia, Aleksander Kocaj, Georg Lorenz and Malte Jansen. 2026. The Role of All-Day Schooling in Friendship Segregation between Students with Different Language Backgrounds. *Kölner Zeitschrift für Soziologie und Sozialpsychologie*. 1–33. DOI: [10.1007/s11577-025-01040-x](https://doi.org/10.1007/s11577-025-01040-x)
 
 Lorenz, Georg, Claudia Neuendorf, and Camilla Rjosk. 2025. Definition and Measurement of Multidimensional Heterogeneity. *SocArXiv Papers*. DOI: [10.1093/esr/jcaf051](https://doi.org/10.1093/esr/jcaf051) 
@@ -52,7 +54,19 @@ Fleischmann, Fenella, Cornelia Kristen, Anthony F. Heath, Yaël Brinbaum, Patric
 
 ### Books and Book Chapters
 
-Lorenz, Georg. 2018. Selbsterfüllende Prophezeiungen in der Schule: Leistungserwartungen von Lehrkräften and Kompetenzen von Kindern mit Zuwanderungshintergrund. Wiesbaden: VS Verlag für Sozialwissenschaften. DOI: [10.1007/978-3-658-19881-7](https://doi.org/10.1007/978-3-658-19881-7)
+Lorenz, Georg & Clemens Kroneberg. 2026 (in print). *How social networks shape educational inequality along ethnic lines: Segregation, social capital, and peer influence*. In B. Bilecen & M. J. Lubbers, Handbook of International Migration and Social Networks, Cheltenham: Elgar.
 
-Lorenz, Georg & Clemens Kroneberg. 2026 (in print). How social networks shape educational inequality along ethnic lines: Segregation, social capital, and peer influence. In B. Bilecen & M. J. Lubbers, Handbook of International Migration and Social Networks, Cheltenham: Elgar.
+Lorenz, Georg. 2018. *Selbsterfüllende Prophezeiungen in der Schule: Leistungserwartungen von Lehrkräften and Kompetenzen von Kindern mit Zuwanderungshintergrund*. Wiesbaden: VS Verlag für Sozialwissenschaften. DOI: [10.1007/978-3-658-19881-7](https://doi.org/10.1007/978-3-658-19881-7)
 
+
+### Working Papers
+
+Rjosk, Camilla und Georg Lorenz. 2026. Classroom heterogeneity: A theoretical model. (Under Review).
+
+Hovestadt, Till, Mathis Ebbinghaus and Georg Lorenz. 2025. Bringing Structure Back in: How Little Homophily Tells Us About Segregation (in preparation for submission).
+
+Kroneberg, Clemens and Georg Lorenz [shared first–authorship]. 2025. Structural sources of segregation: How classroom composition shapes interethnic friendships. (‘revise and resubmit’ at *American Journal of Sociology*). *SocArXiv Papers*. doi: [10.31235/osf.io/v4ne9]([https://osf.io/v4ne9_v1](https://osf.io/preprints/socarxiv/v4ne9_v1))
+
+Lorenz, Georg, Claudia Neuendorf, and Camilla Rjosk. 2025. Multidimensional Heterogeneity: Conceptual Foundations and Measurement Strategies. *SocArXiv Papers*. doi: [10.31235/osf.io/vrtmf_v1](https://osf.io/preprints/socarxiv/vrtmf_v1)
+
+Civitillo, Sauro, Georg Lorenz, Birgit Heppt, Anja Linberg, and Melanie Olczyk. 2022. Does social dominance orientation shape teacher stereotypes? A file drawer report. PsyArXiv Papers. doi: [10.31234/osf.io/gw3b8]/(https://osf.io/preprints/psyarxiv/gw3b8_v1)
