@@ -13,4 +13,4 @@ My research agenda addresses 1) educational inequality, 2) social cohesion in di
 
 Feel free to contact me at: g.lorenz@uu.nl
 
-Dowl
+[Curriculum Vitae (PDF)](Georg_Lorenz_CV_2026-01_en.pdf)
