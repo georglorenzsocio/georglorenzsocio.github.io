@@ -17,4 +17,4 @@ My research combines social-structural, network-theoretical, and analytical-soci
 
 Feel free to contact me at: g.lorenz@uu.nl
 
-[Curriculum Vitae (PDF)](Georg_Lorenz_CV_2026-06_en_website.pdf)
+[Curriculum Vitae (PDF)](_includes/Georg_Lorenz_CV_2026-06_en_website.pdf)
