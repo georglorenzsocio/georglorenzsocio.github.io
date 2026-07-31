@@ -19,10 +19,37 @@ Feel free to contact me at: g.lorenz@uu.nl
 
 ## Citation Metrics
 
-|  | All | Since {{ site.time.year | minus: 5 }} |
-|---|---|---|
-| Citations | {{ site.data.scholar.citations_all }} | {{ site.data.scholar.citations_recent }} |
-| h-index | {{ site.data.scholar.hindex_all }} | {{ site.data.scholar.hindex_recent }} |
-| i10-index | {{ site.data.scholar.i10index_all }} | {{ site.data.scholar.i10index_recent }} |
+<style>
+.scholar-stats { display: flex; gap: 2.5rem; flex-wrap: wrap; margin: 1rem 0 1.2rem; }
+.scholar-stat-value { font-size: 2rem; font-weight: 700; line-height: 1; color: #222; }
+.scholar-stat-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: #666; margin-top: 0.25rem; }
+.scholar-stat-sub { font-size: 0.78rem; color: #999; margin-top: 0.15rem; }
+.scholar-chart img { max-width: 320px; width: 100%; height: auto; }
+.scholar-caption { font-size: 0.82rem; color: #888; margin-top: 0.6rem; }
+</style>
 
-Source: [Google Scholar]({{ site.data.scholar.profile_url }}) &middot; updated daily &middot; last refreshed {{ site.data.scholar.last_updated }}
+<div class="scholar-stats">
+  <div class="scholar-stat">
+    <div class="scholar-stat-value">{{ site.data.scholar.citations_all }}</div>
+    <div class="scholar-stat-label">Citations</div>
+    <div class="scholar-stat-sub">{{ site.data.scholar.citations_recent }} since {{ site.data.scholar.since_year }}</div>
+  </div>
+  <div class="scholar-stat">
+    <div class="scholar-stat-value">{{ site.data.scholar.hindex_all }}</div>
+    <div class="scholar-stat-label">h-index</div>
+    <div class="scholar-stat-sub">{{ site.data.scholar.hindex_recent }} since {{ site.data.scholar.since_year }}</div>
+  </div>
+  <div class="scholar-stat">
+    <div class="scholar-stat-value">{{ site.data.scholar.i10index_all }}</div>
+    <div class="scholar-stat-label">i10-index</div>
+    <div class="scholar-stat-sub">{{ site.data.scholar.i10index_recent }} since {{ site.data.scholar.since_year }}</div>
+  </div>
+</div>
+
+<div class="scholar-chart">
+  <a href="{{ site.data.scholar.profile_url }}">
+    <img src="{{ '/assets/scholar_citations.png' | relative_url }}" alt="Citations per year">
+  </a>
+</div>
+
+<p class="scholar-caption">Source: <a href="{{ site.data.scholar.profile_url }}">Google Scholar</a> &middot; updated daily &middot; last refreshed {{ site.data.scholar.last_updated }}</p>
