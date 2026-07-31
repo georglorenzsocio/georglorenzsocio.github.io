@@ -1,0 +1,182 @@
+---
+---
+
+@charset "utf-8";
+
+// --- Minima variable overrides (must come before the @import) ---
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$base-font-size:   18px;
+$base-line-height: 1.65;
+$small-font-size:  $base-font-size * 0.85;
+$spacing-unit:     28px;
+
+$text-color:       #2b3038;
+$background-color: #e9edf2;   // blue-grey page background
+$brand-color:      #3a5a80;   // muted blue accent
+
+$grey-color:        #6b7480;
+$grey-color-light:  lighten($grey-color, 30%);
+$grey-color-dark:   darken($grey-color, 20%);
+
+$content-width:    860px;
+
+@import "minima";
+
+// --- Site-wide refinements ---
+body {
+  background-color: $background-color;
+}
+
+.site-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #d7dde5;
+}
+
+.site-title, .site-title:visited {
+  font-weight: 700;
+  color: $brand-color !important;
+}
+
+.site-nav .page-link {
+  color: $text-color;
+  font-weight: 500;
+}
+
+.page-content {
+  background-color: transparent;
+}
+
+.page-heading {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: $brand-color;
+}
+a:visited {
+  color: darken($brand-color, 8%);
+}
+a:hover {
+  color: darken($brand-color, 15%);
+}
+
+.footer-col-wrapper {
+  color: $grey-color-dark;
+}
+
+// --- Two-column profile layout (About me page) ---
+.profile-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.profile-sidebar {
+  flex: 0 0 240px;
+  max-width: 240px;
+  background-color: #ffffff;
+  border: 1px solid #d7dde5;
+  border-radius: 10px;
+  padding: 1.4rem;
+  text-align: center;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 170px;
+  border-radius: 8px;
+  margin: 0 auto 0.9rem;
+  display: block;
+}
+
+.profile-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0 0 0.15rem;
+}
+
+.profile-title {
+  font-size: 0.85rem;
+  color: $grey-color-dark;
+  line-height: 1.4;
+  margin: 0 0 1rem;
+}
+
+.profile-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  margin-bottom: 1.3rem;
+}
+
+.profile-links a {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.35rem 0.6rem;
+  border-radius: 6px;
+  background-color: #eef2f6;
+  color: $brand-color;
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  background-color: #e0e7ee;
+}
+
+.profile-main {
+  flex: 1 1 420px;
+  min-width: 280px;
+}
+
+// --- Citation stats (now stacked in the sidebar) ---
+.scholar-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  text-align: left;
+  margin: 0 0 1rem;
+}
+
+.scholar-stat-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: $text-color;
+}
+
+.scholar-stat-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: $grey-color-dark;
+  margin-top: 0.2rem;
+}
+
+.scholar-stat-sub {
+  font-size: 0.72rem;
+  color: $grey-color;
+  margin-top: 0.1rem;
+}
+
+.scholar-chart img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+
+.scholar-caption {
+  font-size: 0.72rem;
+  color: $grey-color;
+  margin-top: 0.6rem;
+  text-align: left;
+}
+
+@media screen and (max-width: 700px) {
+  .profile-sidebar {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}
