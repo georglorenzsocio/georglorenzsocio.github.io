@@ -58,7 +58,7 @@ My [teaching](activities.html#teaching) covers introductory and advanced courses
 
 Feel free to contact me at: g.lorenz@uu.nl
 
-[Curriculum Vitae (PDF)](_includes/Georg_Lorenz_CV_2026-07_en_website.pdf)
+[Curriculum Vitae (PDF)](assets/Georg_Lorenz_CV_2026-07_en_website.pdf)
 
   </div>
 </div>
