@@ -31,4 +31,30 @@ title: Activities
 - I will be presenting at [Analytical Sociology: Theory and Empirical Applications](https://www.soziologie.lmu.de/en/chairs/chair-03/venice.html), Venice International University, November 23-26, 2026.
 
 ### Service
-- Reviewer for …
+
+**Journal and funder reviews**
+- American Sociological Review
+- Deutsche Forschungsgemeinschaft (DFG)
+- European Societies
+- European Sociological Review
+- International Journal of Intercultural Relations
+- Journal of Early Adolescence
+- Journal of Ethnic and Racial Studies
+- Learning and Instruction
+- Psychologie in Erziehung und Unterricht
+- Research in Social Stratification and Mobility
+- Social Science Research
+- Social Forces
+- Social Networks
+- Social Psychology of Education
+- Sociology of Education
+- Studies in Educational Evaluation
+- Swiss Journal of Educational Research
+- Zeitschrift für Erziehungswissenschaften
+
+**Conference reviews**
+- Kongress der Deutschen Gesellschaft für Soziologie (DGS 2016), Bamberg, Germany
+- Tagung der Gesellschaft für Empirische Bildungsforschung (GEBF 2017), Heidelberg, Germany
+- Tagung der Gesellschaft für Empirische Bildungsforschung (GEBF 2024), Potsdam, Germany
+- International Conference on Computational Social Science (IC2S2 2025), Norrköping, Sweden
+- International Conference on Computational Social Science (IC2S2 2026), Burlington, USA
