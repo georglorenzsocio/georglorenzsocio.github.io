@@ -5,13 +5,17 @@ title: About me
 
 <img src="20210525_GLorenz_03.JPG" width="190" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
-I am Assistant Professor at the Department of Sociology at Utrecht University (the Netherlands).
+I am **Assistant Professor** at the <a href="https://www.uu.nl/en/organisation/sociology" style="color:#1a5fb4; font-weight:bold;">Department of Sociology</a> at Utrecht University (the Netherlands).
 
-I obtained my PhD in social sciences ('summa cum laude') in 2017 from the University of Bamberg, Germany. Afterwards, I held positions as project coordinator (Humboldt-University of Berlin), project leader (Leipzig University), and research group leader (University of Potsdam). 
+I obtained my PhD in social sciences ('summa cum laude') in 2017 from the University of Bamberg, Germany. Afterwards, I held positions as project coordinator (Humboldt-University of Berlin), project leader (Leipzig University), and research group leader (University of Potsdam).
 
-Contemporary societal transformations, including migration, increasing diversity, demographic change, and digitalization, are fundamentally reshaping the social structure and everyday life of modern societies. **My research examines how these transformations affect social relationships and what consequences this has for integration, social cohesion, and social inequality.** Current work focuses on **interethnic friendships and social integration, the effects of social networks on educational inequality, stereotypes and subtle discrimination, and the digital transformation of social relationships**. 
+My [research](research.html) examines how **societal transformations** like migration, increasing diversity, demographic change, and digitalization affect **social relationships** and what consequences this has for **integration, social cohesion,** and **social inequality.** Current work focuses on **interethnic friendships** and social integration, the effects of **social networks** on **educational inequality**, stereotypes and subtle **discrimination**, and the **digital transformation of social relationships**.
 
-My research combines social-structural, network-theoretical, and analytical-sociological perspectives and pursues an explicitly **interdisciplinary** approach that integrates sociology with psychology, educational science, and computational social science. Methodologically, I develop theoretical and **quantitative approaches** to studying complex social structures, including the concept of **multidimensional heterogeneity**, and apply large-scale surveys, longitudinal social network analysis, computational methods, and mixed-methods designs to investigate the mechanisms linking social structure, social relationships, and social inequality.
+A current project, funded by the Dutch Research Council, investigates social cohesion in ethnically diverse schools as part of [SOCION](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/).
+
+My research combines analytical-sociological perspectives and pursues an **interdisciplinary** approach that integrates sociology with (social-)psychology, and educational, and organizational science. Methodologically, I develop **theoretical** and **quantitative and computational approaches** to studying complex social structures, including the concept of **multidimensional heterogeneity**. These methods include large-scale surveys, longitudinal social network analysis, computational methods, and mixed-methods designs.
+
+My [teaching](activities.html#teaching) covers introductory and advanced courses on sociology and social network analysis, including lectures on social networks and educational inequality at Utrecht University, seminars on social network analysis at Leipzig University, and tutorials on discrimination, immigration, and educational inequality at the University of Bamberg.
 
 Feel free to contact me at: g.lorenz@uu.nl
 
