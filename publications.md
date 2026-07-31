@@ -5,7 +5,7 @@ title: Publications
 
 ## Peer-Reviewed Journal Articles
 
-Künstler-Sment, Julia, Aleksander Kocaj, Georg Lorenz and Malte Jansen. 2026. Gebundene Ganztagsschulen und Halbtagsschulen in der Sekundarstufe I: Keine Hinweise auf systematische Unterschiede in Lesekompetenzen und kognitiv-instrumentellen Peer-Beziehungen. *Zeitschrift für Erziehungswissenschaft*.
+Künstler-Sment, Julia, Aleksander Kocaj, Georg Lorenz and Malte Jansen. 2026. Gebundene Ganztagsschulen und Halbtagsschulen in der Sekundarstufe I: Keine Hinweise auf systematische Unterschiede in Lesekompetenzen und kognitiv-instrumentellen Peer-Beziehungen. *Zeitschrift für Erziehungswissenschaft*. DOI: [10.1007/s11618-026-01418-3](https://doi.org/10.1007/s11618-026-01418-3)
 
 Hou, Chenru, Georg Lorenz, and Camilla Rjosk. 2026. Is Social Heterogeneity in Classrooms Associated with Reduced Achievement Inequality? The Role of Help-Seeking in Peer Networks. *European Societies*. DOI: [10.1162/EUSO.a.86](https://doi.org/10.1162/EUSO.a.86)
 
