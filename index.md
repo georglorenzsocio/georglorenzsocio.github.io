@@ -3,6 +3,25 @@ layout: page
 title: About me
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Georg Lorenz",
+  "url": "https://georglorenz.com",
+  "jobTitle": "Assistant Professor",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Utrecht University",
+    "url": "https://www.uu.nl/en/organisation/sociology"
+  },
+  "sameAs": [
+    "https://scholar.google.com/citations?user=C9KEwL4AAAAJ",
+    "https://bsky.app/profile/glorenz.bsky.social"
+  ]
+}
+</script>
+
 <div class="profile-layout">
   <aside class="profile-sidebar">
     <img class="profile-photo" src="20210525_GLorenz_03.JPG" alt="Georg Lorenz">

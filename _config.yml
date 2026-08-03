@@ -1,6 +1,10 @@
-title: Georg Lorenz 
+title: Georg Lorenz
 description: Assistant Professor | Utrecht University
+url: "https://georglorenz.com"
 theme: minima
+
+plugins:
+  - jekyll-sitemap
 
 header_pages:
   - index.md
