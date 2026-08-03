@@ -50,13 +50,13 @@ I obtained my PhD in social sciences ('summa cum laude') in 2017 from the Univer
 
 My [research](research.html) examines how **societal transformations** like migration, increasing diversity, demographic change, and digitalization affect **social relationships** and what consequences this has for **integration, social cohesion,** and **social inequality.** Current work focuses on **interethnic friendships** and social integration, the effects of **social networks** on **educational inequality**, stereotypes and subtle **discrimination**, and the **digital transformation of social relationships**.
 
-A current project, funded by the Dutch Research Council, investigates social cohesion in ethnically diverse schools as part of [SOCION](https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/).
+A current project, funded by the Dutch Research Council, investigates social cohesion in ethnically diverse schools as part of <a href="https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/" style="color:#1a5fb4; font-weight:bold;">SOCION</a>.
 
 My research combines analytical-sociological perspectives and pursues an **interdisciplinary** approach that integrates sociology with (social-)psychology, and educational, and organizational science. Methodologically, I develop **theoretical** and **quantitative and computational approaches** to studying complex social structures, including the concept of **multidimensional heterogeneity**. These methods include large-scale surveys, longitudinal social network analysis, computational methods, and mixed-methods designs.
 
 My [teaching](activities.html#teaching) covers introductory and advanced courses on sociology and social network analysis, including lectures on social networks and educational inequality at Utrecht University, seminars on social network analysis at Leipzig University, and tutorials on discrimination, immigration, and educational inequality at the University of Bamberg.
 
-[Curriculum Vitae (PDF)](assets/Georg_Lorenz_CV_2026-07_en_website.pdf)
+<a href="assets/Georg_Lorenz_CV_2026-07_en_website.pdf" style="color:#1a5fb4; font-weight:bold;">Curriculum Vitae (PDF)</a>
 
   </div>
 </div>
