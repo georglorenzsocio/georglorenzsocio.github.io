@@ -75,7 +75,7 @@ My research combines analytical-sociological perspectives and pursues an **inter
 
 My [teaching](activities.html#teaching) covers introductory and advanced courses on sociology and social network analysis, including lectures on social networks and educational inequality at Utrecht University, seminars on social network analysis at Leipzig University, and tutorials on discrimination, immigration, and educational inequality at the University of Bamberg.
 
-<a href="assets/Georg_Lorenz_CV_2026-07_en_website.pdf" style="color:#1a5fb4; font-weight:bold;">Curriculum Vitae (PDF)</a>
+<a href="assets/Georg_Lorenz_CV_2026-08_LaTeX.pdf" style="color:#1a5fb4; font-weight:bold;">Curriculum Vitae (PDF)</a>
 
   </div>
 </div>
