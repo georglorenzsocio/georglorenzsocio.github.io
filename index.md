@@ -67,7 +67,7 @@ I am **Assistant Professor** at the <a href="https://www.uu.nl/en/organisation/s
 
 I obtained my PhD in social sciences ('summa cum laude') in 2017 from the University of Bamberg, Germany. Afterwards, I held positions as project coordinator (Humboldt-University of Berlin), project leader (Leipzig University), and research group leader (University of Potsdam).
 
-My [research](research.html) examines how **societal transformations** like migration, increasing diversity, demographic change, and digitalization affect **social relationships** and what consequences this has for **integration, social cohesion,** and **social inequality.** Current work focuses on **interethnic friendships** and social integration, the effects of **social networks** on **educational inequality**, stereotypes and subtle **discrimination**, and the **digital transformation of social relationships**.
+My [research](research.html) examines how **societal transformations** like migration, increasing diversity, demographic change, and digitalization affect **social relationships** and what consequences this has for **integration, social cohesion,** and **social inequality.** Current work focuses on interethnic friendships and social integration, the effects of social networks on educational inequality, stereotypes and subtle discrimination, and the digital transformation of social relationships.
 
 A current project, funded by the Dutch Research Council, investigates social cohesion in ethnically diverse schools as part of <a href="https://socion-program.org/project/rethinking-social-cohesion-in-ethnically-diverse-schools-linking-horizontal-and-vertical-ties/" style="color:#1a5fb4; font-weight:bold;">SOCION</a>.
 
