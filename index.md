@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About me
 ---
 
@@ -62,6 +62,8 @@ title: About me
   </aside>
 
   <div class="profile-main" markdown="1">
+
+<h1 class="post-title">About me</h1>
 
 I am **Assistant Professor** at the <a href="https://www.uu.nl/en/organisation/sociology" style="color:#1a5fb4; font-weight:bold;">Department of Sociology</a> at Utrecht University (the Netherlands).
 
